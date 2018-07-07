@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class NewBehaviourScript : MonoBehaviour {
+public class SampleScript : MonoBehaviour {
 
 	FlickHelper flickHelper;
 	// Use this for initialization
